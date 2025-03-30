@@ -6,4 +6,3 @@ Wallets and cards attract Thieves! And phone batteries die, but Rings are foreve
 MONC Token is only Crypto allowed on the Monesave App for Payments. Monesave Token (MONC) is a next-generation utility token designed to bridge the gap between digital assets and real-world spending. 
 Integrated within the Monesave ecosystem, MONC empowers users with seamless, contactless payments through Payment Rings at shops, restaurants, and anywhere that accepts contactless transactions across the world. 
 Built on blockchain technology and governed by a Decentralized Autonomous Organization (DAO), MONC is redefining financial accessibility, savings, and decentralized decision-making.
-![image](https://github.com/user-attachments/assets/53e4c838-6c30-4806-9a81-e1e90a8863e0)
